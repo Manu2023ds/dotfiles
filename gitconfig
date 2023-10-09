@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = manu10career@gmail.com
+	name = Manuel Puente
